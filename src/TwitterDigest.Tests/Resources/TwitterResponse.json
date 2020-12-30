@@ -1,0 +1,2239 @@
+﻿[
+  {
+    "created_at": "Sun Dec 27 08:44:40 +0000 2020",
+    "id": 1343115570607222784,
+    "id_str": "1343115570607222784",
+    "text": "@leeerob Yes!! Moar Tailwind vids....",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "leeerob",
+          "name": "Lee Robinson",
+          "id": 81712767,
+          "id_str": "81712767",
+          "indices": [ 0, 8 ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+    "in_reply_to_status_id": 1342949613465202688,
+    "in_reply_to_status_id_str": "1342949613465202688",
+    "in_reply_to_user_id": 81712767,
+    "in_reply_to_user_id_str": "81712767",
+    "in_reply_to_screen_name": "leeerob",
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Dec 26 20:32:33 +0000 2020",
+    "id": 1342931328862445568,
+    "id_str": "1342931328862445568",
+    "text": "@markrendle @johankronberg Yup",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "markrendle",
+          "name": "Mark Rendle and 3 others",
+          "id": 21576088,
+          "id_str": "21576088",
+          "indices": [ 0, 11 ]
+        },
+        {
+          "screen_name": "johankronberg",
+          "name": "Johan Kronberg",
+          "id": 96733327,
+          "id_str": "96733327",
+          "indices": [ 12, 26 ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "in_reply_to_status_id": 1341815527904260097,
+    "in_reply_to_status_id_str": "1341815527904260097",
+    "in_reply_to_user_id": 21576088,
+    "in_reply_to_user_id_str": "21576088",
+    "in_reply_to_screen_name": "markrendle",
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Sat Dec 26 14:13:47 +0000 2020",
+    "id": 1342836008178561024,
+    "id_str": "1342836008178561024",
+    "text": "I've been taking a strong interest in digging deeper with event driven systems lately. The ebook Designing Event-Dr\u2026 https:\/\/t.co\/FWaM0QoWMr",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/FWaM0QoWMr",
+          "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1342836008178561024",
+          "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+          "indices": [ 117, 140 ]
+        }
+      ]
+    },
+    "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 24 21:47:34 +0000 2020",
+    "id": 1342225428472352769,
+    "id_str": "1342225428472352769",
+    "text": "@swyx I've not read this whole thread - can you tell me what desk you've got and how you've got that mood lighting \ud83d\ude0d\ud83d\ude0d",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "swyx",
+          "name": "shawn swyx wang",
+          "id": 33521530,
+          "id_str": "33521530",
+          "indices": [ 0, 5 ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "in_reply_to_status_id": 1342149730453733376,
+    "in_reply_to_status_id_str": "1342149730453733376",
+    "in_reply_to_user_id": 33521530,
+    "in_reply_to_user_id_str": "33521530",
+    "in_reply_to_screen_name": "swyx",
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 24 12:41:58 +0000 2020",
+    "id": 1342088125372375040,
+    "id_str": "1342088125372375040",
+    "text": "@programmersedge This doesn't look like it's the right one - need CDN for this:\n\nhttps:\/\/t.co\/m8p7RqyxHQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "programmersedge",
+          "name": "Arie Jones",
+          "id": 45157148,
+          "id_str": "45157148",
+          "indices": [ 0, 16 ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/m8p7RqyxHQ",
+          "expanded_url": "https:\/\/github.com\/tailwindlabs\/tailwindcss-forms",
+          "display_url": "github.com\/tailwindlabs\/t\u2026",
+          "indices": [ 81, 104 ]
+        }
+      ]
+    },
+    "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+    "in_reply_to_status_id": 1341908112010305538,
+    "in_reply_to_status_id_str": "1341908112010305538",
+    "in_reply_to_user_id": 45157148,
+    "in_reply_to_user_id_str": "45157148",
+    "in_reply_to_screen_name": "programmersedge",
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 17:07:14 +0000 2020",
+    "id": 1341792495743725572,
+    "id_str": "1341792495743725572",
+    "text": "@CliffordAgius @andrew_hoefling @jonhilt and I did about a year ago \ud83d\ude05",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CliffordAgius",
+          "name": "Clifford Agius",
+          "id": 2889266613,
+          "id_str": "2889266613",
+          "indices": [ 0, 14 ]
+        },
+        {
+          "screen_name": "andrew_hoefling",
+          "name": "Andrew Hoefling",
+          "id": 16464727,
+          "id_str": "16464727",
+          "indices": [ 15, 31 ]
+        },
+        {
+          "screen_name": "jonhilt",
+          "name": "Jon Hilton",
+          "id": 18677811,
+          "id_str": "18677811",
+          "indices": [ 32, 40 ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "in_reply_to_status_id": 1341489305974431744,
+    "in_reply_to_status_id_str": "1341489305974431744",
+    "in_reply_to_user_id": 2889266613,
+    "in_reply_to_user_id_str": "2889266613",
+    "in_reply_to_screen_name": "CliffordAgius",
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 15:02:24 +0000 2020",
+    "id": 1341761077986684929,
+    "id_str": "1341761077986684929",
+    "text": "@jamesdrandall This is a tiny project I use on my internal network so this looks like a perfect solution, thanks!",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "jamesdrandall",
+          "name": "James Randall",
+          "id": 1941639428,
+          "id_str": "1941639428",
+          "indices": [ 0, 14 ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+    "in_reply_to_status_id": 1341760027103780866,
+    "in_reply_to_status_id_str": "1341760027103780866",
+    "in_reply_to_user_id": 1941639428,
+    "in_reply_to_user_id_str": "1941639428",
+    "in_reply_to_screen_name": "jamesdrandall",
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 15:00:58 +0000 2020",
+    "id": 1341760717645631489,
+    "id_str": "1341760717645631489",
+    "text": "@jamesdrandall Thanks for that. I might have a dig to see if I can find a tailwind CDN that includes the form plugin \ud83d\udc4d",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "jamesdrandall",
+          "name": "James Randall",
+          "id": 1941639428,
+          "id_str": "1941639428",
+          "indices": [ 0, 14 ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+    "in_reply_to_status_id": 1341759626300297216,
+    "in_reply_to_status_id_str": "1341759626300297216",
+    "in_reply_to_user_id": 1941639428,
+    "in_reply_to_user_id_str": "1941639428",
+    "in_reply_to_screen_name": "jamesdrandall",
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 14:49:56 +0000 2020",
+    "id": 1341757942115299329,
+    "id_str": "1341757942115299329",
+    "text": "@jamesdrandall It's such a small project I took the simplest route and added Tailwind with a CDN. Haven't quite got\u2026 https:\/\/t.co\/LV3vZdD8DV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "jamesdrandall",
+          "name": "James Randall",
+          "id": 1941639428,
+          "id_str": "1941639428",
+          "indices": [ 0, 14 ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/LV3vZdD8DV",
+          "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1341757942115299329",
+          "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+          "indices": [ 117, 140 ]
+        }
+      ]
+    },
+    "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+    "in_reply_to_status_id": 1341756364985688066,
+    "in_reply_to_status_id_str": "1341756364985688066",
+    "in_reply_to_user_id": 1941639428,
+    "in_reply_to_user_id_str": "1941639428",
+    "in_reply_to_screen_name": "jamesdrandall",
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 14:36:02 +0000 2020",
+    "id": 1341754441620463621,
+    "id_str": "1341754441620463621",
+    "text": "Just ported an old MVC project to use #tailwindui. Looking a LOT better! Just need to figure out how to add the for\u2026 https:\/\/t.co\/qa8420LdIe",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "tailwindui",
+          "indices": [ 38, 49 ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/qa8420LdIe",
+          "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1341754441620463621",
+          "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+          "indices": [ 117, 140 ]
+        }
+      ]
+    },
+    "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Dec 21 19:14:02 +0000 2020",
+    "id": 1341099626376671232,
+    "id_str": "1341099626376671232",
+    "text": "This week my 6 year old and I started exploring some of the @scratch tutorials. I think we've both got the bug - tic tac toe tomorrow!",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "scratch",
+          "name": "Scratch Team",
+          "id": 15538226,
+          "id_str": "15538226",
+          "indices": [ 60, 68 ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Dec 21 14:24:48 +0000 2020",
+    "id": 1341026839897227266,
+    "id_str": "1341026839897227266",
+    "text": "@zerotdnb @MRGOLDIE I'd pay good money for a copy of the version that didn't get released \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\udd25",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "zerotdnb",
+          "name": "Zero T \ud83c\uddee\ud83c\uddea",
+          "id": 111862365,
+          "id_str": "111862365",
+          "indices": [ 0, 9 ]
+        },
+        {
+          "screen_name": "MRGOLDIE",
+          "name": "GOLDIE",
+          "id": 52339140,
+          "id_str": "52339140",
+          "indices": [ 10, 19 ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+    "in_reply_to_status_id": 1341011309433917440,
+    "in_reply_to_status_id_str": "1341011309433917440",
+    "in_reply_to_user_id": 111862365,
+    "in_reply_to_user_id_str": "111862365",
+    "in_reply_to_screen_name": "zerotdnb",
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Dec 21 12:49:00 +0000 2020",
+    "id": 1341002733126627328,
+    "id_str": "1341002733126627328",
+    "text": "RT @dracan: I really wish there was a service that did something like \"Kindle Unlimited\" for technical books. Monthly subscription, and rea\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "dracan",
+          "name": "Dan Clarke",
+          "id": 17221835,
+          "id_str": "17221835",
+          "indices": [ 3, 10 ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Dec 21 12:20:11 +0000 2020",
+      "id": 1340995477769170948,
+      "id_str": "1340995477769170948",
+      "text": "I really wish there was a service that did something like \"Kindle Unlimited\" for technical books. Monthly subscript\u2026 https:\/\/t.co\/u6dmBNU33V",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/u6dmBNU33V",
+            "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1340995477769170948",
+            "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+            "indices": [ 117, 140 ]
+          }
+        ]
+      },
+      "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17221835,
+        "id_str": "17221835",
+        "name": "Dan Clarke",
+        "screen_name": "dracan",
+        "location": "Oxfordshire",
+        "description": "Microsoft MVP | .NET Dev | Owner of @everstack | Founder\/organiser of the @dotnetoxford and @azure_oxford user groups | Host of The Unhandled Exception Podcast",
+        "url": "https:\/\/t.co\/9DeGgQllDz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/9DeGgQllDz",
+                "expanded_url": "http:\/\/www.danclarke.com",
+                "display_url": "danclarke.com",
+                "indices": [ 0, 23 ]
+              }
+            ]
+          },
+          "description": { "urls": [] }
+        },
+        "protected": false,
+        "followers_count": 1754,
+        "friends_count": 2117,
+        "listed_count": 93,
+        "created_at": "Thu Nov 06 23:13:46 +0000 2008",
+        "favourites_count": 10430,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11199,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1139412460769697792\/J5u3T_ci_normal.png",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1139412460769697792\/J5u3T_ci_normal.png",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/17221835\/1402690799",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Dec 21 12:46:34 +0000 2020",
+    "id": 1341002117792849920,
+    "id_str": "1341002117792849920",
+    "text": "@dracan @OReillyMedia @PacktPub This 100%! After being in front of a monitor all day, reading on a computer\/tablet\/\u2026 https:\/\/t.co\/FbtdE5dACs",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "dracan",
+          "name": "Dan Clarke",
+          "id": 17221835,
+          "id_str": "17221835",
+          "indices": [ 0, 7 ]
+        },
+        {
+          "screen_name": "OReillyMedia",
+          "name": "O'Reilly Media",
+          "id": 11069462,
+          "id_str": "11069462",
+          "indices": [ 8, 21 ]
+        },
+        {
+          "screen_name": "PacktPub",
+          "name": "Packt",
+          "id": 17778401,
+          "id_str": "17778401",
+          "indices": [ 22, 31 ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/FbtdE5dACs",
+          "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1341002117792849920",
+          "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+          "indices": [ 117, 140 ]
+        }
+      ]
+    },
+    "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+    "in_reply_to_status_id": 1340995477769170948,
+    "in_reply_to_status_id_str": "1340995477769170948",
+    "in_reply_to_user_id": 17221835,
+    "in_reply_to_user_id_str": "17221835",
+    "in_reply_to_screen_name": "dracan",
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Dec 19 05:49:00 +0000 2020",
+    "id": 1340172257403019266,
+    "id_str": "1340172257403019266",
+    "text": "RT @JosephRyanRies: A coworker just taught me a nice PowerShell one-liner for getting one's own public IP address:\n\n(iwr https:\/\/t.co\/Piehw\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "JosephRyanRies",
+          "name": "Ryan Ries",
+          "id": 1038359700,
+          "id_str": "1038359700",
+          "indices": [ 3, 18 ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Dec 18 23:15:15 +0000 2020",
+      "id": 1340073168409604097,
+      "id_str": "1340073168409604097",
+      "text": "A coworker just taught me a nice PowerShell one-liner for getting one's own public IP address:\n\n(iwr https:\/\/t.co\/PiehwyAJCP).Content",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/PiehwyAJCP",
+            "expanded_url": "http:\/\/ifconfig.me\/ip",
+            "display_url": "ifconfig.me\/ip",
+            "indices": [ 101, 124 ]
+          }
+        ]
+      },
+      "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1038359700,
+        "id_str": "1038359700",
+        "name": "Ryan Ries",
+        "screen_name": "JosephRyanRies",
+        "location": "Texas, USA",
+        "description": "Windows Escalation Engineer @ MSFT. I debug things, with a particular fondness for Active Directory and coding. Expect ultra-nerdy tweets.",
+        "url": "https:\/\/t.co\/cYmsAiz6yq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/cYmsAiz6yq",
+                "expanded_url": "http:\/\/www.myotherpcisacloud.com",
+                "display_url": "myotherpcisacloud.com",
+                "indices": [ 0, 23 ]
+              }
+            ]
+          },
+          "description": { "urls": [] }
+        },
+        "protected": false,
+        "followers_count": 2030,
+        "friends_count": 218,
+        "listed_count": 55,
+        "created_at": "Wed Dec 26 23:59:37 +0000 2012",
+        "favourites_count": 4304,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5960,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "00749E",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1268184083546476545\/XMM8y3T__normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1268184083546476545\/XMM8y3T__normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1038359700\/1563747542",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 17 07:26:04 +0000 2020",
+    "id": 1339471913299668992,
+    "id_str": "1339471913299668992",
+    "text": "Improving the Design of Existing Software - with Steve 'Ardalis' Smith  @ardalis \n\nhttps:\/\/t.co\/pS2wzxixl4 \n\n @dotnetoxford @dracan",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ardalis",
+          "name": "Steve \"ardalis\" Smith",
+          "id": 14078289,
+          "id_str": "14078289",
+          "indices": [ 72, 80 ]
+        },
+        {
+          "screen_name": "dotnetoxford",
+          "name": ".NET Oxford",
+          "id": 787358569175871488,
+          "id_str": "787358569175871488",
+          "indices": [ 110, 123 ]
+        },
+        {
+          "screen_name": "dracan",
+          "name": "Dan Clarke",
+          "id": 17221835,
+          "id_str": "17221835",
+          "indices": [ 124, 131 ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/pS2wzxixl4",
+          "expanded_url": "https:\/\/youtu.be\/2S0o6bQBsrw",
+          "display_url": "youtu.be\/2S0o6bQBsrw",
+          "indices": [ 83, 106 ]
+        }
+      ]
+    },
+    "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 16 20:49:18 +0000 2020",
+    "id": 1339311664945094657,
+    "id_str": "1339311664945094657",
+    "text": "RT @adamwathan: Building some of @steveschoger latest Tailwind UI concepts this afternoon...\n\nHonestly still blows me away that with Tailwi\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "adamwathan",
+          "name": "Adam Wathan",
+          "id": 716933677,
+          "id_str": "716933677",
+          "indices": [ 3, 14 ]
+        },
+        {
+          "screen_name": "steveschoger",
+          "name": "Steve Schoger",
+          "id": 101624176,
+          "id_str": "101624176",
+          "indices": [ 33, 46 ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Dec 15 20:43:17 +0000 2020",
+      "id": 1338947762046574596,
+      "id_str": "1338947762046574596",
+      "text": "Building some of @steveschoger latest Tailwind UI concepts this afternoon...\n\nHonestly still blows me away that wit\u2026 https:\/\/t.co\/bIiZEWpfxf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "steveschoger",
+            "name": "Steve Schoger",
+            "id": 101624176,
+            "id_str": "101624176",
+            "indices": [ 17, 30 ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/bIiZEWpfxf",
+            "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1338947762046574596",
+            "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+            "indices": [ 117, 140 ]
+          }
+        ]
+      },
+      "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 716933677,
+        "id_str": "716933677",
+        "name": "Adam Wathan",
+        "screen_name": "adamwathan",
+        "location": "Cambridge, Ontario, Canada",
+        "description": "Creator of @tailwindcss. Listener of Slayer. Austin 3:16.",
+        "url": "https:\/\/t.co\/MUxCZG19hF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/MUxCZG19hF",
+                "expanded_url": "http:\/\/adamwathan.me",
+                "display_url": "adamwathan.me",
+                "indices": [ 0, 23 ]
+              }
+            ]
+          },
+          "description": { "urls": [] }
+        },
+        "protected": false,
+        "followers_count": 78058,
+        "friends_count": 717,
+        "listed_count": 1467,
+        "created_at": "Wed Jul 25 22:59:42 +0000 2012",
+        "favourites_count": 10367,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 31866,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/887661330832003072\/Zp6rA_e2_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/887661330832003072\/Zp6rA_e2_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/716933677\/1472653714",
+        "profile_link_color": "1989CE",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 109,
+      "favorite_count": 2266,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 109,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 16 11:24:48 +0000 2020",
+    "id": 1339169603247861763,
+    "id_str": "1339169603247861763",
+    "text": "@MCDRS @LukeLSB Can you hit Calibre up first too? \ud83d\ude4f",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "MCDRS",
+          "name": "Light Language \ud83d\udca1\ud83d\udca1\ud83d\udca1",
+          "id": 140519723,
+          "id_str": "140519723",
+          "indices": [ 0, 6 ]
+        },
+        {
+          "screen_name": "LukeLSB",
+          "name": "Luke LSB",
+          "id": 38172042,
+          "id_str": "38172042",
+          "indices": [ 7, 15 ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+    "in_reply_to_status_id": 1339151327599988743,
+    "in_reply_to_status_id_str": "1339151327599988743",
+    "in_reply_to_user_id": 140519723,
+    "in_reply_to_user_id_str": "140519723",
+    "in_reply_to_screen_name": "MCDRS",
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Dec 15 16:55:51 +0000 2020",
+    "id": 1338890526322552834,
+    "id_str": "1338890526322552834",
+    "text": "@GerardoLijs Which 27\" monitors out of interest? I'm in the market for some right now!",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "GerardoLijs",
+          "name": "Gerardo Lijs",
+          "id": 1071142662135255040,
+          "id_str": "1071142662135255040",
+          "indices": [ 0, 12 ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+    "in_reply_to_status_id": 1338856525842980864,
+    "in_reply_to_status_id_str": "1338856525842980864",
+    "in_reply_to_user_id": 1071142662135255040,
+    "in_reply_to_user_id_str": "1071142662135255040",
+    "in_reply_to_screen_name": "GerardoLijs",
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Dec 11 20:37:26 +0000 2020",
+    "id": 1337496736395354112,
+    "id_str": "1337496736395354112",
+    "text": "Hey @monzo, I just got an email about confirming some of my details. Clicking the button on my Samsung phone doesn'\u2026 https:\/\/t.co\/fdWzRlnKMO",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "monzo",
+          "name": "Monzo",
+          "id": 3224409977,
+          "id_str": "3224409977",
+          "indices": [ 4, 10 ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/fdWzRlnKMO",
+          "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1337496736395354112",
+          "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+          "indices": [ 117, 140 ]
+        }
+      ]
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 805644781,
+      "id_str": "805644781",
+      "name": "Nick Kirby",
+      "screen_name": "NRKirby",
+      "location": "Shrewsbury, UK",
+      "description": "Software Developer | Vinyl Obsessor",
+      "url": "https:\/\/t.co\/xBEhkwSpLJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/xBEhkwSpLJ",
+              "expanded_url": "https:\/\/linktr.ee\/vinylwarmth",
+              "display_url": "linktr.ee\/vinylwarmth",
+              "indices": [ 0, 23 ]
+            }
+          ]
+        },
+        "description": { "urls": [] }
+      },
+      "protected": false,
+      "followers_count": 345,
+      "friends_count": 1291,
+      "listed_count": 17,
+      "created_at": "Tue Sep 04 22:37:53 +0000 2012",
+      "favourites_count": 2680,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1194,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1273898468935897089\/6njc-lr3_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]
