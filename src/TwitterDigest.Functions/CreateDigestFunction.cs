@@ -31,13 +31,21 @@ namespace TwitterDigest.Functions
             const string twitterHandle = "nrkirby";
             var date = DateTime.Now;
 
-            var twitterUsers = await _twitterUserRepository.List(twitterHandle);
+            try
+            {
+                var twitterUsers = await _twitterUserRepository.List(twitterHandle);
 
-            var latestTweets = (await _twitterApi.GetTweetsInLast24Hours(twitterUsers.Select(x => x.RowKey), date)).ToList();
+                var latestTweets = (await _twitterApi.GetTweetsInLast24Hours(twitterUsers.Select(x => x.RowKey), date)).ToList();
 
-            await SendEmail(date, twitterHandle, latestTweets);
+                await SendEmail(date, twitterHandle, latestTweets);
 
-            log.LogInformation($"C# Timer trigger function executed at: {date}");
+                log.LogInformation($"C# Timer trigger function executed at: {date}");
+            }
+            catch (Exception e)
+            {
+                log.LogError(e, $"Exception thrown: {e.StackTrace}");
+                throw;
+            }
         }
 
         private async Task SendEmail(DateTime date, string twitterHandle, List<Tweet> latestTweets)
