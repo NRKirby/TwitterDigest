@@ -26,7 +26,7 @@ namespace TwitterDigest.Functions
         }
 
         [FunctionName(nameof(CreateDigestFunction))]
-        public async Task Run([TimerTrigger("0 7 * * *")] TimerInfo myTimer, ILogger log)
+        public async Task Run([TimerTrigger("0 7 * * * *")] TimerInfo myTimer, ILogger log)
         {
             const string twitterHandle = "nrkirby";
             var date = DateTime.Now;
