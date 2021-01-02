@@ -57,7 +57,7 @@ namespace TwitterDigest.Functions
                 Tweets = latestTweets,
                 TweetCount = latestTweets.Count
             };
-            await _emailService.SendDigest(templateData, date);
+            await _emailService.SendDigest(templateData);
         }
     }
 }

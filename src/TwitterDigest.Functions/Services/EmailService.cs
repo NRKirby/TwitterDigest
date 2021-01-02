@@ -15,14 +15,13 @@ namespace TwitterDigest.Functions.Services
             _configuration = configuration;
         }
 
-        public async Task SendDigest(object templateData, DateTime dateTime)
+        public async Task SendDigest(object templateData)
         {
             var apiKey = _configuration["SendGridApiKey"];
             var client = new SendGridClient(apiKey);
             var msg = new SendGridMessage
             {
-                From = new EmailAddress("no_reply@twitterdigest.com", "Twitter Digest"),
-                Subject = $"Twitter Digest for {dateTime.ToShortDateString()}"
+                From = new EmailAddress("no_reply@twitterdigest.com", "Twitter Digest")
             };
             var email = _configuration["ToEmailAddress"];
             var name = _configuration["ToEmailName"];
