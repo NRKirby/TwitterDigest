@@ -8,5 +8,6 @@ namespace TwitterDigest.Functions.Models
         public string Text { get; set; }
         public string DateTime { get; set; }
         public string Name { get; set; }
+        public string ImageUrl { get; set; }
     }
 }

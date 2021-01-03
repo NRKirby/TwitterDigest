@@ -41,7 +41,8 @@ namespace TwitterDigest.Functions.Services
                     TwitterHandle = x.user.screen_name,
                     Text = x.text,
                     DateTime = GetDateTime(x.created_at).ToString("ddd MMM dd HH:mm"),
-                    Name = x.user.name
+                    Name = x.user.name,
+                    ImageUrl = x.user.profile_image_url
                 });
         }
 
