@@ -75,7 +75,6 @@ namespace TwitterDigest.Tests.Services
             tweet.Name.ShouldBe("Nick Kirby");
             tweet.TwitterHandle.ShouldBe("NRKirby");
             tweet.DateTime.ShouldBe("Sat Dec 26 20:32");
-            tweet.ImageUrl.ShouldBe("http://pbs.twimg.com/profile_images/1273898468935897089/6njc-lr3_normal.jpg");
         }
     }
 }
