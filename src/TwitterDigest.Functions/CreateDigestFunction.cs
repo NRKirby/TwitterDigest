@@ -1,9 +1,10 @@
-using Microsoft.Azure.WebJobs;
-using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.Azure.WebJobs;
+using Microsoft.Extensions.Logging;
+using NodaTime;
 using TwitterDigest.Functions.Models;
 using TwitterDigest.Functions.Repositories;
 using TwitterDigest.Functions.Services;
@@ -15,6 +16,7 @@ namespace TwitterDigest.Functions
         private readonly TwitterApi _twitterApi;
         private readonly TwitterUserRepository _twitterUserRepository;
         private readonly EmailService _emailService;
+        private const string TwitterHandle = "nrkirby";
 
         public CreateDigestFunction(TwitterApi twitterApi,
             TwitterUserRepository twitterUserRepository, 
@@ -25,19 +27,27 @@ namespace TwitterDigest.Functions
             _emailService = emailService;
         }
 
-        [FunctionName(nameof(CreateDigestFunction))]
-        public async Task Run([TimerTrigger("0 0 7 * * *")] TimerInfo myTimer, ILogger log)
+        [FunctionName(nameof(CreateDigestFunction))] // 0 1 * * * *  run every hour at 1 minute past the hour
+        public async Task Run([TimerTrigger("0 1 * * * *")] TimerInfo myTimer, ILogger log)
         {
-            const string twitterHandle = "nrkirby";
+            var now = SystemClock.Instance.GetCurrentInstant();
+            var londonDateTimeZone = DateTimeZoneProviders.Tzdb["Europe/London"];
+            var zonedDateTime = now.InZone(londonDateTimeZone);
+
+            if (zonedDateTime.TimeOfDay.Hour != 7)
+            {
+                return;
+            }
+
             var date = DateTime.Now;
 
             try
             {
-                var twitterUsers = await _twitterUserRepository.List(twitterHandle);
+                var twitterUsers = await _twitterUserRepository.List(TwitterHandle);
 
                 var latestTweets = (await _twitterApi.GetTweetsInLast24Hours(twitterUsers.Select(x => x.RowKey), date)).ToList();
 
-                await SendEmail(date, twitterHandle, latestTweets);
+                await SendEmail(date, TwitterHandle, latestTweets);
 
                 log.LogInformation($"C# Timer trigger function executed at: {date}");
             }
